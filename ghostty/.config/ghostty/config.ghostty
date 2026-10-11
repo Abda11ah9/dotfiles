@@ -1,0 +1,17 @@
+# Theme
+theme = Catppuccin Mocha
+
+# Font
+font-family = JetBrains Mono
+font-size = 15
+
+# Spacing
+window-padding-x = 12
+window-padding-y = 10
+
+# macOS appearance
+macos-titlebar-style = transparent
+
+# Cursor
+cursor-style = bar
+cursor-style-blink = false
